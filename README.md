@@ -9,7 +9,7 @@
 - Fetching main feed posts.
 - Liking posts.
 - Commenting on posts.
-- Easy-to-use interface.
+- Easy-to-use.
 - Fully open source.
 
 ---
