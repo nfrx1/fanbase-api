@@ -67,5 +67,6 @@ This project is licensed under the **MIT License**
 
 [GitHub Repository](https://github.com/nfrx1/fanbase-api/)
 
+[Telegram Channel](https://t.me/preventx)
 ## Author
 Developed by Kapom²
